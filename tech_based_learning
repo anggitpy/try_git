@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T13:55:38.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.7" etag="TLqAmWY5NOAxAmh4e4iH" type="github"><diagram id="FBZLcOMCQ9k2Wo6enxw7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-02T14:19:00.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HENvX3zKZpFY0ZyvmFO4" version="14.1.7" type="github">
+  <diagram id="FBZLcOMCQ9k2Wo6enxw7" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="600" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-1" value="Teacher controls&lt;br&gt;the screen when teaching&lt;br&gt;through apple TV.&lt;br&gt;If permitted, student can&lt;br&gt;broadcast their iPad&lt;br&gt;content to the screen" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-5">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-2" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-5">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-3" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-6">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-4" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-6">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-7" value="Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="540" width="550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-9" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-8">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-10" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-8">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-12" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-11">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-13" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-11">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="800" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-15" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-14">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-16" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-14">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="920" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-18" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-17">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-19" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-17">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="920" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-21" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-20">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-22" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-20">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="920" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-24" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-23">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-25" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-23">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="920" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-27" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-26">
+          <mxGeometry x="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-28" value="iPad" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WaS_miiNYdtCrVAbjgvt-26">
+          <mxGeometry y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-30" value="Apple TV&lt;br&gt;sync between&lt;br&gt;devices and&lt;br&gt;displayed on&lt;br&gt;the screen" style="verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.vwlan_controller;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="627.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-37" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.wireless_connection;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="170" y="627.5" width="89.88" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WaS_miiNYdtCrVAbjgvt-42" target="WaS_miiNYdtCrVAbjgvt-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-47" value="Student / teacher&lt;br&gt;accessing TCExam&lt;br&gt;via Internet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WaS_miiNYdtCrVAbjgvt-45">
+          <mxGeometry x="-0.1061" y="-3" relative="1" as="geometry">
+            <mxPoint y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="580" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-43" value="CBT Application&lt;br&gt;(eg. TCExam)" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WaS_miiNYdtCrVAbjgvt-44" target="WaS_miiNYdtCrVAbjgvt-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaS_miiNYdtCrVAbjgvt-44" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
